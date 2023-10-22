@@ -11,7 +11,7 @@
             "options": {
                 "resolveKeyTexts": ["好","要","嗯","蒽"],
                 "rejectKeyTexts": ["不","不要","不看"],
-                "rejectHitTexts": ["真的不想看吗TAT","就算不想看还是看一看吧"]
+                "rejectHitTexts": ["真的不想看吗TAT","就算不想看还是看一看吧> <"]
             }
         }
     },
